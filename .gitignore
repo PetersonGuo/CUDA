@@ -1,0 +1,8 @@
+# Ignore files without extensions
+*
+
+# Allow directories
+!*/
+
+# Allow files with extensions
+!*.*
